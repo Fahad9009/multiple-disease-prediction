@@ -1,3 +1,1 @@
-<p>This project uses many libraries like numpy, pandas, matplotlib, scikit learn(Machine Learning)</p>
-<p>This project uses many libraries like numpy, pandas, matplotlib, scikit learn(Matplotlib)<p>
-
+This is a multiple disease prediction system, user inputs the values and model predicts whether the user has the disease or not... 
